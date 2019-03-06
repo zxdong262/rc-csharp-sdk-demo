@@ -1,6 +1,6 @@
 # rc-csharp-sdk-demo
 
-Demo app, play with [RingCentral C# SDK](https://github.com/ringcentral/RingCentral.Net)
+Demo app, play with [RingCentral Csharp SDK](https://github.com/ringcentral/RingCentral.Net)
 
 ## Run
 
